@@ -1,0 +1,21 @@
+video_id,title,channel_name,category_id,views,likes,dislikes,comments,subscribers,published_date
+vid001,How to Make Perfect Pasta,ChefMaster,Cooking,125000,8500,120,450,150000,2024-01-15
+vid002,Python Tutorial for Beginners,CodingPro,Education,89000,6200,85,320,89000,2024-01-20
+vid003,Morning Workout Routine,FitnessGuru,Health,156000,11200,95,680,200000,2024-01-25
+vid004,Travel Vlog: Japan Adventure,TravelBuddy,Travel,78000,5400,65,290,120000,2024-02-01
+vid005,DIY Home Decoration Ideas,CraftyHome,Lifestyle,92000,6800,110,420,95000,2024-02-05
+vid006,JavaScript Basics Explained,CodingPro,Education,67000,4800,75,280,89000,2024-02-10
+vid007,Quick Healthy Recipes,ChefMaster,Cooking,134000,9200,130,520,150000,2024-02-15
+vid008,Meditation for Beginners,MindfulLife,Health,45000,3200,45,180,75000,2024-02-20
+vid009,Budget Travel Tips,TravelBuddy,Travel,112000,7800,90,380,120000,2024-02-25
+vid010,Home Organization Hacks,CraftyHome,Lifestyle,88000,6400,100,350,95000,2024-03-01
+vid011,React.js Tutorial,CodingPro,Education,145000,10200,140,620,89000,2024-03-05
+vid012,Advanced Cooking Techniques,ChefMaster,Cooking,98000,7200,105,410,150000,2024-03-10
+vid013,Yoga for Flexibility,FitnessGuru,Health,123000,8900,115,480,200000,2024-03-15
+vid014,Europe Travel Guide,TravelBuddy,Travel,167000,11800,155,720,120000,2024-03-20
+vid015,Minimalist Living Tips,CraftyHome,Lifestyle,76000,5500,80,310,95000,2024-03-25
+vid016,Machine Learning Basics,CodingPro,Education,189000,13500,180,890,89000,2024-03-30
+vid017,Baking Masterclass,ChefMaster,Cooking,156000,11200,125,580,150000,2024-04-01
+vid018,HIIT Workout Session,FitnessGuru,Health,134000,9600,110,520,200000,2024-04-05
+vid019,Asia Travel Adventures,TravelBuddy,Travel,145000,10200,135,650,120000,2024-04-10
+vid020,Sustainable Living Guide,CraftyHome,Lifestyle,89000,6500,95,380,95000,2024-04-15
